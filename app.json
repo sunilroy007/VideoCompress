@@ -9,9 +9,9 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://t.me/linux_repo",
-  "website": "https://t.me/Discovery_Updates",
-  "repository": "https://github.com/AbirHasan2005/VideoCompress",
+  "success_url": "https://t.me/joinchat/_L0DUBcS6EhiYWU5",
+  "website": "https://t.me/joinchat/_L0DUBcS6EhiYWU5",
+  "repository": "https://t.me/NOSOURCECODE",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
